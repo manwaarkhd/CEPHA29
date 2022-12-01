@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/CEPHA29-Challenge-Banner.svg">
+  <img src="docs/CEPHA29-Challenge-Banner (V2.0).svg">
 </p>
 
 # CEPHA29: Automatic Cephalometric Landmark Detection Challenge
